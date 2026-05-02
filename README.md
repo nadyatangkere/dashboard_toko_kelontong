@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Portfolio Excel — Dashboard Penjualan Toko Kelontong
 **Nadya Theresia Tangkere| Data Analyst Portfolio Project**
 
