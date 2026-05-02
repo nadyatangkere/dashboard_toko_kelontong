@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfolio Excel — Dashboard Penjualan Toko Kelontong
 **Nadya Theresia Tangkere| Data Analyst Portfolio Project**
 
@@ -180,3 +181,6 @@ Breakdown profitabilitas per kategori produk menggunakan `SUMIF` pada kolom Kate
 | **Industri** | Retail / UMKM — relevan untuk pasar Indonesia |
 
 ---
+=======
+# dashboard_toko_kelontong
+>>>>>>> 6d7e8b56b1d95602929e32490d9320b045409410
