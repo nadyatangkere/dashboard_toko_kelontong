@@ -1,5 +1,5 @@
 # Portfolio Excel — Dashboard Penjualan Toko Kelontong
-**Nadya Theresia Tangkere| Data Analyst Portfolio Project**
+**Nadya Theresia Tangkere | Data Analyst Portfolio Project**
 
 ---
 
@@ -15,7 +15,7 @@ Proyek ini mensimulasikan sistem analisis penjualan untuk toko kelontong/sembako
 toko_makmur_sejahtera_dashboard.xlsx
 │
 ├── 🏠 DASHBOARD          ← Halaman utama, ringkasan semua analisis
-├── DATA_TRANSAKSI        ← Raw data (3.335 baris, Jul–Des 2024)
+├── DATA_TRANSAKSI        ← Raw data (3.335 baris, Jul–Des 2025)
 ├── REKAP_BULANAN         ← Agregasi penjualan per bulan
 ├── TARGET_VS_AKTUAL      ← Monitoring pencapaian target
 ├── ANALISIS_PRODUK       ← Ranking produk & margin per SKU
